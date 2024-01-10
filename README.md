@@ -1,0 +1,2 @@
+# gesture_recognition
+大连理工大学第四届人工智能挑战赛校赛
